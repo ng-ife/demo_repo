@@ -1,9 +1,10 @@
 # Do NOT update manually; changes here will be overwritten by Copier
-_commit: v2.0
+_commit: v2.1.4
 _src_path: git@github.com:ifegmbh/ife-addons-repo-template.git
 additional_ruff_rules: []
 ci: GitHub
 convert_readme_fragments_to_markdown: true
+customer_repo: false
 generate_requirements_txt: true
 github_add_codeowners: false
 github_check_license: true
@@ -21,6 +22,5 @@ repo_description: And here comes a short description
 repo_name: This is a Demo Repo
 repo_slug: demo_repo
 repo_website: https://www.ife.de
-use_pyproject_toml: true
 use_ruff: true
 
